@@ -36,6 +36,11 @@ layout: default
       {{ content }}
     </article>
   </div>
+{% if page.author %}
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+{% endif %}
 
   <div class="share-buttons">
     <h6>Share on: </h6>

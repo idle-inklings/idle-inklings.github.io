@@ -2,6 +2,8 @@
   * Grid
   */
 
+$margin: 0;
+
 // Container
 .container {
   margin: 0 auto;
@@ -123,3 +125,34 @@
 
   }
 }
+
+/*
+   Works out the width of elements based on total number of columns and width
+   number of columns being displayed. Removes 20px for margins.
+   ========================================================================== */
+
+@mixin grid($grid:$def_grid,$cols:'',$float:left,$display:inline){
+  display:$display;
+  float:$float;
+  width:(100%/$grid * $cols) - ($margin * 2);
+}
+
+/*
+   Add x amount of column padding before an element
+   Example: @include prefix(1,12);
+   ========================================================================== */
+
+@mixin prefix($grid:$def_grid,$cols:''){
+  margin-left:(100%/$grid * $cols);
+}
+
+/*
+   Add x amount of column padding after an element
+   Example: @include suffix(2,12);
+   ========================================================================== */
+
+@mixin suffix($grid:$def_grid,$cols:''){
+  margin-right:(100%/$grid * $cols);
+}
+
+

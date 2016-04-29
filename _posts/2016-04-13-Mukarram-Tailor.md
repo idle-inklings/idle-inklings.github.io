@@ -5,9 +5,6 @@ modified: 2015-11-27
 tags: [Humans of IIT Mandi]
 comments:
 pinned:
-author: litsoc
-image:
-  feature: mukarram_tailor.jpg
 ---
 
 #####Mukarram Tailor
@@ -19,3 +16,6 @@ image:
 "Which buildings drew your interest towards architecture?"
 
 "Well, I have not travelled much but architecture I saw in Dubai made me realise the beauty and my attraction towards it."
+
+![Mukarram Tailor]({{ site.url }}/img/mukarram_tailor.jpg)
+{: .pull-right}

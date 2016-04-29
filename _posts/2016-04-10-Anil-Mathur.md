@@ -5,9 +5,6 @@ modified: 2015-11-27
 tags: [Humans of IIT Mandi]
 comments:
 pinned:
-author: litsoc
-image:
-  feature: anil_mathur.jpg
 ---
 
 #####Anil Mathur
@@ -19,3 +16,7 @@ image:
 "But that's a basketball."
 
 "Yeah that's my first love."
+
+
+![Anil Mathur]( {{ site.url }}/img/anil_mathur.jpg )
+{: .pull-right}

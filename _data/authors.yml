@@ -3,13 +3,31 @@
 
 ankush:
   name: Ankush Jindal
-  email: 
-  bio: 
+  avatar:
+  email:
+  bio: Tourist for life
 
 preeti:
-  name: Preeti 
-  email: 
-  bio: 
+  name: Preeti
+  avatar:
+  email:
+  bio:
 
 priya:
   name: Priya dharshinee
+  avatar: ../img/priya_dharshinee.jpg
+  bio: Sophomore at IIT Mandi
+  facebook: priyadharshinee
+
+debarghya:
+  name: Debarghya Das
+  avatar: ../img/deedy.jpeg
+  bio:
+  quora: Debarghya-Das
+  weblink: debarghyadas.com
+  facebook: dd
+  twitter: debarghya_das
+  linkedin: in/debarghyadas
+  github: deedy
+  google.plus: +DebarghyaDas/
+  youtube:
