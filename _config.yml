@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Idle Inklings
+title: Imaginative Culprits
 email: editorial.iitmandi@gmail.com
 description: A weblog that exists to sustain the literary culture of the campus. We bring to you stories from IIT Mandi and beyond.
 # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ description: A weblog that exists to sustain the literary culture of the campus.
 # Then, the 'url' is: http://yourname.github.io
 # If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
 # Then, the 'url' is: http://yourname.github.io/projectname
-url: http://idleinklings.com/
+url: http://www.imaginativeculprits.com/
 
 #
 ###################################
@@ -35,12 +35,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Idle Inklings
-  avatar: avatar.jpg
+  name: Imaginative Culprits
+  avatar:
   job: Literary Society, IIT Mandi
   bio: "A weblog that exists to cater to literary needs of the populace and to keep the writers/readers/bibliophiles in us from suffering from existential crises. We bring to you stories from IIT Mandi and beyond."
   email: editorial.iitmandi@gmail.com
-  disqus-shortname: idle-inklings
+  disqus-shortname: imaginative-culprits
   twitter: #username
   facebook: #username
   google:
