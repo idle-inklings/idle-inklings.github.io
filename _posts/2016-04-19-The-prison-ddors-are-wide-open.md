@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The prison doors are wide open
-excerpt: "A listicle that honestly gives away the many undue advantages that the fairer sex has while studying in an IIT. All the IIT boys will deem it as true as much as the girls will."
+excerpt: "A poetry expressing the internal conflict to stay inside while the doors are wide open."
 modified: 2016-04-18
 tags: [Stories from the campus]
 comments: true
