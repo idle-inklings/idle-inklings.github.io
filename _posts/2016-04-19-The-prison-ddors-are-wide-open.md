@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The prison doors are wide open
-excerpt: "A poetry expressing the internal conflict to stay inside while the doors are wide open."
+excerpt: "A poetry expressing the internal conflict to stay inside while the doors stay wide open."
 modified: 2016-04-18
 tags: [Stories from the campus]
 comments: true
