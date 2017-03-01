@@ -38,3 +38,33 @@ apoorva:
   bio:
   quora: Apoorva-Bhatia
   facebook: apoorva.bhatia2
+
+saksham:
+  name: Saksham Bathla
+  avatar: ../img/saksham_bathla.jpg
+  bio: 
+  facebook: saksham.bathla.92
+
+sandesh:
+  name: Sandesh Joshi
+  avatar: ../img/sandesh_joshi.jpg
+  bio:
+  facebook: 
+
+mamta:
+  name: Mamta Bhagia
+  avatar: ../img/mamta_bhagia.jpg
+  bio:
+  facebook:
+  
+ankit:
+  name: Ankit Kumar Meena
+  avatar: ../img/ankit_kumar.jpg
+  bio:
+  facebook:
+
+srishti:
+  name: Srishti Gautam
+  avatar: ../img/srishti_gautam.jpg
+  bio:
+  facebook:
