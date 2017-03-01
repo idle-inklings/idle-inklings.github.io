@@ -10,7 +10,6 @@ author: mamta
 ---
 
 
-
 I have always been a person who loves parties, night-outs, huge stories of insane things to tell. My first semester here was full of these days. Spent a night cycling around IITK's campus, ran after a ghost in the mountains, snuck out of campus to see the stars. All sorts of stories that people write about.
 
 But lately I'm starting to think, we spend the best times of our lives just loafing on the grass.
