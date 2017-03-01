@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Humans of IIT Mandi - Anil Mathur
+title: Humans of IIT Mandi - Saksham Bathla
 modified: 2015-11-27
 tags: [Humans of IIT Mandi]
 comments:
 pinned:
 ---
 
-##### Anil Mathur
+##### Saksham Bathla
 
 "Who do you love the most?"
 
