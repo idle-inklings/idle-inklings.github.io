@@ -3,7 +3,7 @@ layout: post
 title: Aamchi Mumbai
 excerpt: "The experiences of a girl, born in a metropolitan, now living a different life altogether closer to the nature."
 modified: 2017-02-24
-tags: [Humans Of IIT Mandi]
+tags: [Humans of IIT Mandi]
 comments: true
 pinned: true
 author: mamta
