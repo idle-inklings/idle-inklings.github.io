@@ -6,12 +6,14 @@ ankush:
   avatar: ../img/ankush_jindal.jpg
   email:
   bio: Tourist for life
+  facebook: jindal.ankush95
 
 preeti:
   name: Preeti KM
   avatar: ../img/preeti_km.jpg
   email:
   bio:
+  facebook: preeti.km.12
 
 priya:
   name: Priya dharshinee
@@ -48,14 +50,14 @@ saksham:
 sandesh:
   name: Sandesh Joshi
   avatar: ../img/sandesh_joshi.jpg
-  bio:
-  facebook: 
+  bio: As adventurous as a hobbit
+  facebook: sandesh.joshi.127
 
 mamta:
   name: Mamta Bhagia
   avatar: ../img/mamta_bhagia.jpg
   bio:
-  facebook:
+  facebook: mamta.bhagia
   
 ankit:
   name: Ankit Kumar Meena
@@ -68,3 +70,16 @@ srishti:
   avatar: ../img/srishti_gautam.jpg
   bio:
   facebook:
+
+senthil:
+  name: Bala Senthil Kumar
+  avatar: ../img/senthil.jpg
+  bio: (As per his quora profile)A nomad, humanitarian, excellence and truth seeker - at the moment.
+  quora: Bala-Senthil-Kumar
+
+vivek :
+  name: Vadluri Vivek
+  avatar : ../img/vivek.jpg
+  bio:
+  facebook: vadluri.vivek
+  
