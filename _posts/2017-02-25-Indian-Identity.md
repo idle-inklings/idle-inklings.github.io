@@ -3,7 +3,7 @@ layout: post
 title: The Indian Identity
 excerpt: "An attempt to understand what makes the largest democracy of the world stay together against all odds "
 modified: 2017-02-25
-tags: [Perspectives from beyond]
+tags: [Perspectives From Beyond]
 comments: true
 pinned: true
 author: saksham
