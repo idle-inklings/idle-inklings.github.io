@@ -6,7 +6,7 @@ modified: 2016-04-18
 tags: [Stories from the campus]
 comments: true
 pinned: true
-author: saksham
+author: apoorva
 ---
 
 Bells that rung, it was a Beautiful Day.\\
