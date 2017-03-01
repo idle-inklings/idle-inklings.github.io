@@ -56,8 +56,9 @@ sandesh:
 mamta:
   name: Mamta Bhagia
   avatar: ../img/mamta_bhagia.jpg
-  bio:
+  bio: floating through one existential crisis after another
   facebook: mamta.bhagia
+  quora: Mamta-Bhagia
   
 ankit:
   name: Ankit Kumar Meena
