@@ -9,6 +9,8 @@ pinned: true
 author: srishti
 ---
 
+
+{: style="text-align: center;"}
 And there he was.
 
 A few metres away
