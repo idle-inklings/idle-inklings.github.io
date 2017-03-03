@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  सरहद पार			
-excerpt: "HAVE WE BEEN CHERISHING THE WRONG THINGS?"
+excerpt: 
 modified: 2017-03-01
 tags: [Perspectives From Beyond]
 comments: true
