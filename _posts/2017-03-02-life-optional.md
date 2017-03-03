@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life, Optional
-excerpt: "Contemplating life"
+excerpt: "Bala Senthil Kumar, a top quora writer, who was once an engineering student himself, shares his idea of life, the way he views it"
 modified: 2017-03-01
 tags: [Perspectives From Beyond]
 comments: true
