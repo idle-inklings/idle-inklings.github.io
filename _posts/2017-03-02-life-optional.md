@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life, Optional
-excerpt: "A short story over a title chosen from "
+excerpt: "Contemplating life"
 modified: 2017-03-01
 tags: [Perspectives From Beyond]
 comments: true
