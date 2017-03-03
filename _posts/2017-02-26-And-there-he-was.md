@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And there he was
-excerpt: "HAVE WE BEEN CHERISHING THE WRONG THINGS?"
+excerpt: "A poem of realisation"
 modified: 2017-03-01
 tags: [Perspectives From Beyond]
 comments: true
