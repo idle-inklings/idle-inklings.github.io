@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HAVE WE BEEN CHERISHING THE WRONG THINGS?
-excerpt: "A beautiful prospective of a student on what is fun"
+excerpt: "A beautiful perspective of a student on what is fun"
 modified: 2017-03-01
 tags: [Perspectives From Beyond]
 comments: true
