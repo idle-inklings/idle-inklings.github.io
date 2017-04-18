@@ -9,7 +9,7 @@ pinned: true
 author: sandesh
 ---
 
-I was neither walking nor running. My pace was quickened and steps happy. I was rushing to my home. It was my neighborhood. I knew it as well as it knew me. It was late and dark so I wasn’t expecting any stranger. I knew many aces that lived in this neighborhood. But this face on the pavement was new, strange, unknown. I don’t know why but it bothered me. He was staring at my breast, unabashedly. I ignored him and walked by. 
+I was neither walking nor running. My pace was quickened and steps happy. I was rushing to my home. It was my neighborhood. I knew it as well as it knew me. It was late and dark so I wasn’t expecting any stranger. I knew many faces that lived in this neighborhood. But this face on the pavement was new, strange, unknown. I don’t know why but it bothered me. He was staring at my breast, unabashedly. I ignored him and walked by. 
 
 I wasn’t rushing anymore. Tentative, I turned back. He was staring straight at me. What he wanted to hide, and what I saw was him pulling his hand out of his jeans. In that moment I knew this neighborhood wasn’t loyal, it had betrayed me. I walked at first, shivering, consciously aware of my body. Trying to hide everything I could. Trying to cover everything which was already covered. It wasn’t the first time I was realizing how insignificant my clothes can be. That no matter how I hide my breast or my curves, eve my neck or for the heck of it, all my face. Men would always grab all they could in one chance, from their glance. The clothes were no use, not loyal, they betrayed me. 
 
